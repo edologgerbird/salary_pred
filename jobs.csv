@@ -1,0 +1,896 @@
+,company,job_title,listing_id,address,employment_type,seniority,min_exp,job_cat,salary_range,date_posted,date_expiry,job_description
+0,NIOMETRICS (PTE.) LTD.,Data Scientist,MCF-2021-0184943,"PARKVIEW SQUARE, 600 NORTH BRIDGE ROAD 188778","Permanent, Full Time",Professional,2 years exp,"Information Technology, Telecommunications","$5,000to$10,000",Posted 27 May 2021,Closing on 26 Jun 2021,"Roles & Responsibilities
+What we do
+Niometrics captures, organises and extracts insights from some of the biggest and most complicated datasets that our modern societies currently produce. We put a magnifying glass on the realities collectively constructed by billions of connected individuals and machines, making sense of how humanity is re-creating wholly new digital universes with bits and bytes – universes that need to be seen, interpreted and explained. From taking deep dives into digital behaviours, to exploring the most intimate interactions between network technology and user experiences, we do it all.
+Our Data Science team consists of ambitious, creative and passionate individuals, united in the common goal of making a difference. With millions of users generating hundreds of TBs of data daily, our day-to-day job becomes an adventure of connecting digital signals with real-life habits to formulate granular audience insights – who they are, how they behave, and ultimately, how we can expect them to behave in the future. The action does not stop there – we also take pride in working with the latest high-end hardware and world-class software architecture. This means there are virtually no limits to the scope of future events we can model, giving us insights on not just people, but also the entire inter-connected ecosystem to which they belong.
+We are perfectionists and we do not hide it. You will join a thrilling environment, implementing and deploying data science solutions that are both efficient and secure, setting the basis for a groundbreaking software platform for the long run.
+
+Your role as Data Scientist
+As a Data Scientist, you will work end-to-end, leading entire projects and owning their outcomes through their entire lifecycle. You will formulate hypotheses on structured and unstructured data, design experiments, draw meaningful conclusions and effectively communicate the results to business stakeholders. You will be part of a relentless team, curious to extract the highest value possible in the most effective way. You will put into action your machine learning skills, and together, we will build optimum algorithms for regression, classification, clustering, and information extraction.
+
+What we value
+BA/BS (or MA/MS) or equivalent experience in applied Data Science
+Proficiency in statistical packages and ML libraries for both big and not so big data (e.g. Python SciPy ecosystem, NLTK, Tensorflow or equivalent, Spark ML and MLlib, etc.)
+In depth knowledge of cutting-edge machine learning algorithms, as well as the strengths and weaknesses of the different methods and algorithms on different applications
+Experience in Unix systems and scripting in bash
+Proficiency in code optimisation (knowledge of Cython or similar)"
+1,COMPIT CONSULTANTS PTE LTD,Data Scientist,MCF-2021-0238708,Islandwide,Contract,Executive,5 years exp,Information Technology,"$5,000to$6,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Job Title: Data Scientist
+We are looking for a senior data scientist who has a deep interest in theoretical and
+applied machine learning and loves working in a fast-paced environment.
+He/she should have 5-8 years work experience in predictive analytics/forecasting space
+and have solved real-world problems. Candidates with experience in transactional
+anomaly prediction, operational risk modelling would be given preference.
+The role would be a client facing one, hence good communication skills are a must. The
+candidate should have the ability to communicate complex models and analysis in a
+clear and precise manner.
+The candidate would be responsible for:
+• Comprehending business problems properly - what to predict, how to build DV,
+what value addition he/she is bringing to the client, etc.
+• Understanding and analyzing large, complex, multi-dimensional datasets and
+build features relevant for business.
+• Understanding the math behind algorithms and choosing one over another
+• Understanding approaches like stacking, ensemble and applying them correctly
+to increase accuracy."
+2,DELL GLOBAL B.V. (SINGAPORE BRANCH),Data Scientist,MCF-2021-0210062,South Changi Business Park Central 1 486036,Full Time,Executive,2 years exp,Information Technology,"$7,000to$14,000",Posted 10 May 2021,Closing on 09 Jun 2021,"Roles & Responsibilities
+Key Responsibilities
+
+o Collaborate with Marketing, Finance, Business Operations and other key stakeholders to integrate Client Solutions related products and solutions data to deliver actionable insights
+o Leverage external partnerships to keep up-to-date technology trends and integrate relevant external data source into the predictive models
+o Creates visualize and effectively communicates/presents on the data findings and insights
+o Serve as project lead to work with interns to solve project based problem
+o Identify valuable data sources and automate collection processes, undertake preprocessing of structured and unstructured data. Analyze large amounts of information to discover trends and patterns
+o Build predictive models and machine-learning algorithms and combine models through ensemble modeling. Present information using data visualization techniques. Propose solutions and strategies to business challenges
+o Implement new statistical or other mathematical methodologies as needed for specific models or analysis. Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+o Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+o Develop custom data models and algorithms to apply to data sets. Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Essential Requirements
+o Requires 2+ years of related experience in a professional role with a Bachelor’s degree; or 1+ years with a Master’s degree or a PhD; or equivalent experience
+o Demonstrated ability to deliver enterprise grade AI/Machine learning solutions for large scale environments
+o Must have exceptional communication skills as you would have to clearly articulate advanced concepts to a wide range of audiences
+o Passion to keep current on emerging technologies in the big data, data science, artificial intelligence and machine learning space
+o Experience with Python, R, MySQL programming experience, familiarity with Spark, Scala, Java or C++ is an asset
+o Ability to prioritize and manage work load on critical projects
+o Experience in data mining and understanding of machine-learning and operations research
+o Knowledge of R, SQL and Python; familiarity with AWS, Spark, Scala, Java or C++ is an asset
+o Experience using business intelligence tools (e.g. Power BI, Tableau) and data frameworks (e.g. Hadoop)
+o Strong math skills (e.g. statistics, algebra) and Problem-solving aptitude
+o Excellent communication and presentation skills
+o Experience working with and creating data architectures."
+3,BIOFOURMIS SINGAPORE PTE. LTD.,Data Scientist - Natural Language Processing,MCF-2021-0238345,"VISION EXCHANGE, 2 VENTURE DRIVE 608526","Permanent, Full Time",Senior Executive,3 years exp,"Engineering, Information Technology","$5,000to$10,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Job Summary:
+Biofourmis is looking for smart and capable Data Scientist on our Data Science team to join our ranks. The ideal candidate should have the passion to use healthcare data and advanced machine learning techniques to build services to patients and caregivers. We are building an end-to-end service that integrates seamlessly into the lives of those patients via multiple touchpoints on front-end while providing intelligent analytics on the backend.
+
+Responsibilities:
+· Research and develop the medical NLP technique. It’s especially designed to extract key information including doctor’s diagnosis, recommendations, outcome, endpoints from free-form clinical texts (or electronic medical records) which contains acronyms, abbreviations and typing errors.
+· Research and develop the medical NLP technique to categorise the clinical text data for systematic access and research and summarise the text by natural language processing for a group of patients that researchers to identify medical symptoms and treatments.
+· Documentation which clearly explains how algorithms have been implemented, verified and validated.
+
+Experience / Training:
+· Hands on experience in medical natural language processing models and tools, including widely used machine learning / deep learning models, etc.
+· Knowledge in medical semantic technology; background in or exposure to healthcare data, human physiology or cardiology is preferred.
+
+Education:
+· Master or PhD in Biomedical Engineering, Computer Science, Medical Information Engineering, Electronic Engineering or related fields with strong coding skills and understanding for electronic medical records. (Masters with related working experience may be considered).
+
+Skills:
+· Proficient with natural language processing techniques, including but not limited to semantic analysis, intention recognition, human-machine dialogue, named entity recognition, clustering, etc.
+· Proficient with programming in Python. Strong Programming in C/C++ is a plus.
+· Experience with medical NLP. Familiar with one type of clinical texts (electronic medical records) is a plus.
+· Good research ability and critical thinking skills.
+· Excellent written and verbal communication skills"
+4,BIOFOURMIS SINGAPORE PTE. LTD.,Data Scientist - Neuroscience,MCF-2021-0238343,"VISION EXCHANGE, 2 VENTURE DRIVE 608526","Permanent, Full Time",Senior Executive,3 years exp,"Engineering, Information Technology","$5,000to$10,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Job Summary:
+Biofourmis is looking for smart and capable Data Scientist on our Data Science team to join our ranks. The ideal candidate should have the passion to use healthcare data and advanced machine learning techniques to build services to patients and caregivers. We are building an end-to-end service that integrates seamlessly into the lives of those patients via multiple touchpoints on front-end while providing intelligent analytics on the backend.
+
+Responsibilities:
+• Analyse complex medical problems by referring to a patient’s history, examining them and conducting neurological tests.
+• Monitor the behavioral and cognitive side effects of treatment and medication; Interpret the results of neuroimaging studies.
+• Get involved in developing machine learning model to track patient sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology and neurogenetics.
+• Documentation which clearly explains how algorithms have been implemented, verified and validated.
+
+Experience / Training:
+• Hands on experience in monitoring the behavioral and cognitive side effects of treatment and medication; Hands on experience in interpret the results of neuroimaging studies.
+• Hands on experience in machine learning model to track patient sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology and neurogenetics.
+
+Education:
+• Master or PhD in Neuroscience or related fields with strong research ability and coding skills.
+
+Skills:
+• Specialize in one part of the nervous system, such as neurotransmitters, or focus their research on specific behaviors, such as psychiatric disorders. Illnesses based in the nervous system include Alzheimer’s, Parkinson’s, multiple sclerosis, sleep disorder.
+• Hands on experience with Octave/ Python/ R
+• Have experience in physiological data (e.g. EEG /ECG/ PPG/ Accelerometer) or electronic health record (EHR) system.
+• Good research ability and critical thinking skills, publication on top journal is a bonus.
+• Excellent written and verbal communication skills."
+5,SHOPEE SINGAPORE PRIVATE LIMITED,Senior Data Scientist,MCF-2021-0238810,"GALAXIS, 1 FUSIONOPOLIS PLACE 138522",Permanent,Middle Management,2 years exp,Information Technology,"$9,000to$17,600",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Responsibilities:
+Develop and enhance data infrastructure using frameworks such as Hadoop, SPARK and Flume
+Design and build new data models and architects that will provide intuitive analytics
+Design and build reliable data pipelines that will efficiently move data to our Data Warehouse
+Design and develop new systems and tools that will enable teams to utilise, understand and process data at faster speeds
+Requirements:
+Minimum B.S. degree in Computer Science or a related technical field
+Excellent communication skills with the ability to identify and communicate data driven insights
+2+ years of Python development and Unix/linux system experience
+2+ years of SQL (Mysql, Mssql, Hive, etc) experience
+You must also possess at least 2 of the additional requirements as below
+2+ years of working experience in software development/programming in one of Java, C/C++. OS environment: Linux/Unix
+2+ years of working experience with distributed databases or distributed systems
+2+ years of working experience with dimensional data modelling & schema design in Data Warehouses
+2+ years of working experience working on BigData analytics pipelines (Hadoop, Hive, ETL, RDBMS-Hadoop data management tools like Sqoop)"
+6,SHOPEE SINGAPORE PRIVATE LIMITED,Senior Data Scientist,MCF-2021-0238809,"GALAXIS, 1 FUSIONOPOLIS PLACE 138522",Permanent,Professional,3 years exp,Information Technology,"$6,500to$10,500",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Responsibilities:
+Develop and enhance data infrastructure using frameworks such as Hadoop, SPARK and Flume
+Design and build new data models and architects that will provide intuitive analytics
+Design and build reliable data pipelines that will efficiently move data to our Data Warehouse
+Design and develop new systems and tools that will enable teams to utilise, understand and process data at faster speeds
+Requirements:
+Minimum B.S. degree in Computer Science or a related technical field
+Excellent communication skills with the ability to identify and communicate data driven insights
+2+ years of Python development and Unix/linux system experience
+2+ years of SQL (Mysql, Mssql, Hive, etc) experience
+You must also possess at least 2 of the additional requirements as below
+2+ years of working experience in software development/programming in one of Java, C/C++. OS environment: Linux/Unix
+2+ years of working experience with distributed databases or distributed systems
+2+ years of working experience with dimensional data modelling & schema design in Data Warehouses
+2+ years of working experience working on BigData analytics pipelines (Hadoop, Hive, ETL, RDBMS-Hadoop data management tools like Sqoop)"
+7,SHOPEE SINGAPORE PRIVATE LIMITED,Data Scientist,MCF-2021-0238807,"GALAXIS, 1 FUSIONOPOLIS PLACE 138522",Permanent,Executive,2 years exp,Information Technology,"$5,000to$9,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Responsibilities:
+Develop and enhance data infrastructure using frameworks such as Hadoop, SPARK and Flume
+Design and build new data models and architects that will provide intuitive analytics
+Design and build reliable data pipelines that will efficiently move data to our Data Warehouse
+Design and develop new systems and tools that will enable teams to utilise, understand and process data at faster speeds
+Requirements:
+Minimum B.S. degree in Computer Science or a related technical field
+Excellent communication skills with the ability to identify and communicate data driven insights
+2+ years of Python development and Unix/linux system experience
+2+ years of SQL (Mysql, Mssql, Hive, etc) experience
+You must also possess at least 2 of the additional requirements as below
+2+ years of working experience in software development/programming in one of Java, C/C++. OS environment: Linux/Unix
+2+ years of working experience with distributed databases or distributed systems
+2+ years of working experience with dimensional data modelling & schema design in Data Warehouses
+2+ years of working experience working on BigData analytics pipelines (Hadoop, Hive, ETL, RDBMS-Hadoop data management tools like Sqoop)"
+8,SHOPEE SINGAPORE PRIVATE LIMITED,Data Scientist,MCF-2021-0238806,"GALAXIS, 1 FUSIONOPOLIS PLACE 138522",Permanent,Executive,2 years exp,Information Technology,"$3,800to$7,500",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Responsibilities:
+Develop and enhance data infrastructure using frameworks such as Hadoop, SPARK and Flume
+Design and build new data models and architects that will provide intuitive analytics
+Design and build reliable data pipelines that will efficiently move data to our Data Warehouse
+Design and develop new systems and tools that will enable teams to utilise, understand and process data at faster speeds
+Requirements:
+Minimum B.S. degree in Computer Science or a related technical field
+Excellent communication skills with the ability to identify and communicate data driven insights
+2+ years of Python development and Unix/linux system experience
+2+ years of SQL (Mysql, Mssql, Hive, etc) experience
+You must also possess at least 2 of the additional requirements as below
+2+ years of working experience in software development/programming in one of Java, C/C++. OS environment: Linux/Unix
+2+ years of working experience with distributed databases or distributed systems
+2+ years of working experience with dimensional data modelling & schema design in Data Warehouses
+2+ years of working experience working on BigData analytics pipelines (Hadoop, Hive, ETL, RDBMS-Hadoop data management tools like Sqoop)"
+9,A*STAR RESEARCH ENTITIES,"#SgUnitedJobs Scientist (Machine Learning / Data analysis / Green Tech), ICES",MCF-2021-0145013,Islandwide,"Contract, Full Time",Non-executive,NA,Sciences / Laboratory / R&D,"$4,750to$6,800",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+ICES is looking for a creative, innovative and highly motivated scientist with Machine Learning/AI background to contribute to ACDP (Accelerated Catalyst Development Platform). In this role, you will work closely with ACDP team to apply ML/AI for ACDP.
+Be involved in various industrial projects to develop new catalysts or more sustainable chemical process. Write reports and present results to various stakeholders in a timely manner.
+Collaborate with colleagues to develop new capabilities for the division and the institute
+Draft proposal and apply grants through various channels. Publish papers in peer-reviewed journals & contribute to IP generation.
+Work with colleagues to maintain good laboratory safety practice.
+Maintain a strong commitment to the implementation and perpetuation of values and ethics.
+This project is highly relevant to sustainability
+Job Requirements:
+PhD in Chemistry, Chemical Engineering, Material Sciences, Data Science or any other relevant disciplines."
+10,COMPIT CONSULTANTS PTE LTD,Senior Software Engineer - Data Engineer,MCF-2021-0238712,Islandwide,Contract,Junior Executive,2 years exp,Information Technology,"$7,000to$8,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Job Title: SSE DE – Data Engineer
+Yash Technologies Singapore is looking for a Data Engineer who is familiar with the Hadoop platform and is able
+to design, implement and maintain optimal data/machine learning (ML) pipelines in the platform.
+The following are the main responsibilities of the role:
+Responsibilities
+• Designing and implementing fine-tuned production ready data/ML pipelines in Hadoop
+platform.
+• Driving optimization, testing and tooling to improve quality.
+• Reviewing and approving high level & detailed design to ensure that the solution
+delivers to the business needs and align to the data & analytics architecture principles
+and roadmap.
+• Understanding business requirement and solution design to develop and implement
+solutions that adhere to big data architectural guidelines and address business requirements.
+• Following proper SDLC (Code review, sprint process).
+• Identifying, designing, and implementing internal process improvements: automating
+manual processes, optimizing data delivery, etc.
+• Building robust and scalable data infrastructure (both batch processing and real-time) to
+support needs from internal and external users
+• Understanding various data security standards and using secure data security tools to
+apply and adhere to the required data controls for user access in Hadoop platform.
+• Supporting and contributing to development guidelines and standards for data ingestion
+• Working with data scientist and business analytics team to assist in data ingestion and
+data related technical issues.
+• Designing and documenting the development & deployment flow.
+Requirements
+• Experience in developing rest API services using one of the Scala frameworks
+• Ability to troubleshoot and optimize complex queries on the Spark platform
+• Expert in building and optimizing ‘big data’ data/ML pipelines, architectures and data sets
+• Knowledge in modelling unstructured to structured data design.
+• Experience in Big Data access and storage techniques.
+• Experience in doing cost estimation based on the design and development.
+• Excellent debugging skills for the technical stack mentioned above which even includes
+analyzing server logs and application logs.
+• Highly organized, self-motivated, proactive, and ability to propose best design solutions.
+• Good time management and multitasking skills to work to deadlines by working
+independently and as a part of a team.
+• Ability to analyse and understand complex problems.
+• Ability to explain technical information in business terms.
+• Ability to communicate clearly and effectively, both verbally and in writing.
+• Strong in user requirements gathering, maintenance and support
+• Excellent understanding of Agile Methodology.
+• Good experience in Data Architecture, Data Modelling, Data Security.
+Experience -Must have:
+a) Scala: Minimum 2 years of experience
+b) Spark: Minimum 2 years of experience
+c) Hadoop: Minimum 2 years of experience (Security, Spark on yarn, Architectural
+knowledge)
+d) Hbase: Minimum 2 years of experience
+e) Hive - Minimum 2 years of experience
+f) RDBMS (MySql / Postgres / Maria) - Minimum 2 years of experience
+g) CI/CD Minimum 1 year of experience
+Experience (Good to have):
+a) Kafka
+b) Spark Streaming
+c) Apache Phoenix
+d) Caching layer (Memcache / Redis)
+e) Spark ML
+f) FP (Scala cats / scalaz)
+Qualifications
+Bachelor's degree in IT, Computer Science, Software Engineering, Business Analytics or
+equivalent with at-least 2 years of experience in big data systems such as Hadoop as well as
+cloud-based solutions."
+11,BIOFOURMIS SINGAPORE PTE. LTD.,Lead Data Engineer,MCF-2021-0238340,"VISION EXCHANGE, 2 VENTURE DRIVE 608526","Permanent, Full Time",Manager,8 years exp,"Engineering, Information Technology","$6,000to$12,000",Posted 26 May 2021,Closing on 25 Jun 2021,"Roles & Responsibilities
+Job Summary:
+We are looking for a Lead Data Engineer with exceptional skills to work on the backend of our AI-powered solution developed in Python. We are building an end-to-end service that integrates seamlessly into the lives of those affected by cardiac disease via multiple touchpoints on front-end while providing intelligent analytics on the backend.
+Responsibilities:
+Design, architect, and build stream processing systems which deal with unbounded data
+Design, build, and deploy software using technologies such as Kafka, Mqtt, Spark, Serverless, Kubernetes.
+Work with the data engineering team to develop & maintain data pipelines for batch & stream processing.
+Work closely with Development Architects on designing/implementing code optimizations.
+Identify, design, and implement internal process improvements and tools to automate data processing and ensure data integrity while meeting data security standards
+Work with data scientist and business analytics team to assist in data ingestion and data-related technical issues
+Perform in-depth analysis of performance issues to identify hotspot and opportunities for optimization
+Provide technical consulting and mentoring to team members on optimization techniques, data processing design, implementation and conformance to architecture standards.
+Experience / Training:
+8+ years of software development and system integration experience.
+Minimum 4 years of experience in data warehousing / distributed system (e.g. Hadoop)
+Education:
+Bachelor’s degree in Computer Science, Applied Mathematics, Engineering, or any other technology related field. An equivalent of the same in working experience is also accepted for the position.
+Skills:
+Strong Java / J2EE, Python, Scripting experience
+Proficient in Big data tools and ecosystem (e.g. Hadoop, HIVE, HBase, Kafka, Spark, ...)
+Expert in building and optimizing big data pipelines, architectures, and data sets
+Experience in data ingestion, cleaning and processing tools.
+Excellent experience in data processing using Scala/Python/Java
+Strong in user requirements gathering, maintenance, and support
+Highly organized, self-motivated, pro-active, and able to plan
+Experience managing users and vendors is a plus
+Past hands on experience with Advanced Analytics is desirable
+Strong Architectural concepts around Cloud Computing and base software Development"
+12,HYDROINFORMATICS INSTITUTE PTE. LTD.,Chief Data Scientist,MCF-2021-0237232,"CINTECH III, 77 Science Park Drive 118256",Full Time,Senior Executive,7 years exp,Consulting,"$12,000to$20,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Chief Data Scientist (Two open positions)
+
+Job Description:
+
+H2i is looking to strengthen its team of data scientists by introducing a role of Chief Data Scientist who is expected to architect, build and maintain innovative products for the water and weather environments.
+
+Chief Data Scientist is a leadership and hands-on position with responsibilities for overseeing activities of the junior data science team ensuring proper execution of duties and alignment with the business’s overall vision. Chief Data Scientist is responsible for the creation of new data sciences capabilities within the company by envisioning and executing strategies that influence improvement of the business’s performance.
+
+Chief Data Scientist is expected to proactively work with other business executives and unit heads across the company in order to provide advanced analytic data modelling systems. Chief Data Scientist will be responsible for design and launch of innovative and complex analytic models, utilizing a blend of contemporary and traditional machine learning techniques, which will be applied to both structured and unstructured data sets.
+
+Chief Data Scientist leads the development of big data capabilities and utilization as well as the coordination of cross-functional analytic initiatives.
+
+Education: Chief Data Scientist has to have MSc or PhD degree in Statistics, Machine Learning, Mathematics, Computer Science, Economics, or any other related quantitative field. A working experience of the same is also acceptable for the position.
+
+Experience: A candidate for this position has to have had at least 7 years of working experience in a data science position, preferably working as a Senior Data Scientist. The candidate for this position will have to be highly proficient and experienced in scripting languages and have rapid prototyping skills, that is, fluency in SQL, Python, Perl, Java, VB and deep learning toolboxes like Tensorflow and PyTorch. In addition to this, chief Data Scientist is expected to poses project management skills and/or capacity to lead a team of data engineers and data scientists to complete projects within time and budget.
+The candidate must also have a proven and successful experience track record of leading high-performing data analyst teams leading through the successful performance of advanced quantitative analyses and statistical modelling that positively impact business performance.
+
+Communication Skills: Communication skills will be a necessity for Chief Data Scientist. As a leader she/he must be able to convey important messages and information down the line in order to ensure proper exception of duties by junior data science personnel. Communication skills will also be a necessity for the Head of Data Science and in his collaborative capacity where information must be clearly articulated between the collaborating parties in order to ensure effective,
+
+Interpersonal Skills: A suitable candidate for this position will be a team-builder, be result-oriented, be proactive and self-driven requiring minimal supervision, be open and welcoming to change, be a creative and strategic thinker, have innovative problem-solving skills, be highly organized, have an ability to handle multiple simultaneous tasks prioritize and meet tight deadlines, and demonstrate calmness in times of uncertainty and stress.
+
+People Skills: Chief Data Scientist is a people person who is able to form strong, lasting, and meaningful bonds with others people. This will make him an approachable and trustworthy individual who junior personnel readily follow and who senior Data and Analytics executives and stakeholders trust and who’s insights they give credit to, making execution of his duties that much easier.
+
+About Us
+
+The Hydroinformatics Institute develops and applies technology-enabled, digital solutions to some of the world’s most pressing water-related challenges. Our products and services help clients harness the power of data, advanced analytics, and modelling to unlock insights at the global, regional, and local levels – and in real time. The team’s expertise spans hydrodynamic modelling, water quality modelling of inland and coastal water systems, weather management, and operational management systems.
+H2i is SaaS-based, Water-as-a-Service provider behind landmark water management projects in countries including Brunei, Oman, Singapore, Sri Lanka, Philippines, and Vietnam. In 2018, we were named Small Business Rising Star at the Winsemius Awards."
+13,ST ENGINEERING IHQ PTE. LTD.,Advanced Data Scientist,MCF-2021-0194750,"ST ENGINEERING HUB, 1 ANG MO KIO ELECTRONICS PARK ROAD 567710",Permanent,Manager,8 years exp,"Information Technology, Sciences / Laboratory / R&D","$9,000to$12,000",Posted 30 Apr 2021,Closing on 30 May 2021,"Roles & Responsibilities
+· Lead a team of junior researchers to explore and develop new or improved analytical techniques through both organic and collaborative R&D efforts
+· Develop POCs to demonstrate viability of DA/AI technologies for our different MRO businesses
+· Demonstrate research efficacy by publishing conference papers, journal articles and other means of asserting IP ownership
+· Work with our Group Engineering Centre and lines of businesses to translate research outcomes into commercially viable products or services
+Requirements:
+· Master's or PhD in Science/Engineering/Mathematics with at least 8 years of working experience in data analytics
+· In-depth technical knowledge and experience in any of the following:
+1. Anomaly Detection
+2. Forecasting
+3. Computational Fluid Dynamics
+4. Digital Twins
+5. Computational Intelligence
+6. Operations Research
+7. Deep Learning
+8. Social & Cognitive Computing
+9. Knowledge Representation
+10. Agent-based Simulation
+11. Computer Vision
+12. Behavioural Modelling
+13. Interpretable/Explainable AI
+
+· Good experience with end-to-end analytics process – ideation/value elicitation, data profiling, analytical modelling, testing, validation, visualization, and solutioning
+· Strong problem solving skills and passion for artificial intelligence and data science research
+· Experienced in SQL (any flavour), Python, R, Matlab, Java, C++/ C
+· Experienced in preparing research papers using standard document preparation tools such as Microsoft Word or Latex
+· Familiar with distributed computing, modelling & simulation, optimization, and visualization tools
+· Excellent coordination and time management skills to handle complex projects
+· Willing and enthusiastic about continuous learning"
+14,ERNST & YOUNG ADVISORY PTE. LTD.,"Data Scientist - AI (Financial Services) Senior Consultant, Technology Consulting",MCF-2021-0237373,1 RAFFLES QUAY 048583,Permanent,Senior Executive,3 years exp,"Banking and Finance, Consulting, Information Technology","$4,100to$8,200",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+We are the only professional services organization who has a separate business dedicated exclusively to the financial services marketplace. Join Financial Services (FSO) and you will work with multi-disciplinary teams from around the world to deliver a global perspective. Aligned to key industry groups including asset management, banking and capital markets, insurance and private equity, we provide integrated advisory, assurance, tax, and transaction services.
+
+The Opportunity
+EY’s Technology Consulting professionals bring a wealth of experience in working with major financial institutions to align their operating model and infrastructure to their business’ strategic objectives. We assemble the right multi-disciplinary teams, use consistent and proven global methodologies and tools, and draw on the full breadth of EY’s global network, to deliver value and trusted advice to the clients. The key service offerings cover finance function transformation, customer and distribution effectiveness, operations, shared services / outsourcing support, performance management, program advisory, enterprise intelligence, risk management and regulatory change.
+
+Your Key Responsibilities
+Do you have sharp analytic skills? Do you know how to solve problems? Do you know how to develop innovative solutions? We’re looking for someone like that who can:
+Turn data into an asset for clients
+Rapidly perform Data Science analysis to provide insights using a variety of techniques
+Apply experience and expertise in several tools such as Python, Machine Learning and AI libraries, R and SAS
+Perform full lifecycle of Data Scientist activities, including conceptual and operational aspects
+Manage end to end projects - clarify requirements and devise research approaches
+Collect and combine data from multiple sources, analyze it for insights and produce great visuals
+Stay on top of current business and industry trends
+At the heart of this project is the ability to systematically analyze and build statistical and machine learning models for our clients across markets. We are looking for talented and experienced Data Scientists to bring innovation at EY
+
+Skills and Attributes for Success
+Excellent communication skills
+Outstanding analytical and problem-solving skills
+Ability to work in a team
+
+To Qualify for the role, you must have
+Degree in Computer Science, Mathematics or similar quantitative field;
+Minimally 3 years of relevant experience
+Strong knowledge and experience of data mining and machine learning - algorithms, regression techniques, Bayesian models, decision trees, clustering, pattern recognition, probability theory, stochastic systems, statistical techniques and dimensionality reduction
+Deep knowledge and experience developing solutions using Deep Learning, Neural Nets, Graph-Nets, Computational Linguistics (NLP, NLU, NLG, Speech) and Computer Vision (Video, Image Processing), Auto-Encoders and Generative Networks.
+Knowledge of Reinforcement Learning is a plus
+Understanding and experience in model production using CI/CD and REST API, or similar services for real-time processing
+Programming experience with Python, R, SAS or other related languages
+Experience in TensorFlow, PyTorch, H2O or similar framework; expertise in any of these frameworks is a plus
+Strong analytical and problem-solving skills with a passion for research
+Knowledge of robotics process automation (RPA) is a plus
+Proven experience as a Data Scientist in AI/ML or similar role
+Understanding of data structures, data modeling, software architecture and implementation
+Deep knowledge of math, probability, statistics and algorithms
+What we look for
+Highly motivated individuals with excellent problem-solving skills and the ability to prioritize shifting workloads in a rapidly changing industry. An effective communicator, you’ll be a confident team player that collaborates with people from various teams while looking to develop your career in a dynamic organization.
+
+What we offer
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The exceptional EY experience. It’s yours to build.
+Apply now."
+15,TOOKITAKI HOLDING PTE. LTD.,Data Scientist,MCF-2021-0238176,"HIGH STREET CENTRE, 1 NORTH BRIDGE ROAD 179094",Full Time,Executive,3 years exp,"Engineering, Information Technology","$7,000to$9,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Job Title: Data Scientist
+The data science team is responsible for solving business problems with complex data. Data complexity could be characterized in terms of volume, dimensionality and multiple touchpoints/sources. We understand the data, ask fundamental-first-principle questions, apply our analytical and machine learning skills to solve the problem in the best way possible. We also encourage to participate in competitions like Kaggle.
+
+Our ideal candidate
+We are looking for a senior data scientist who has a deep interest in theoretical and applied machine learning and loves working in a fast-paced environment.
+
+He/she should have 5-8 years work experience in predictive analytics/forecasting space and have solved real-world problems. Candidates with experience in transactional anomaly prediction, operational risk modelling would be given preference.
+
+The role would be a client facing one, hence good communication skills are a must. The candidate should have the ability to communicate complex models and analysis in a clear and precise manner.
+
+The candidate would be responsible for:
+• Comprehending business problems properly - what to predict, how to build DV, what value addition he/she is bringing to the client, etc.
+• Understanding and analyzing large, complex, multi-dimensional datasets and build features relevant for business.
+• Understanding the math behind algorithms and choosing one over another
+• Understanding approaches like stacking, ensemble and applying them correctly
+to increase accuracy.
+
+Desired technical requirements
+• Proficiency with Python and the ability to write production-ready codes.
+• Experience in Scala would be a plus
+• Big data experience, e.g. familiarity with Spark, Hadoop, is highly preferred
+• Familiarity with SQL or other databases."
+16,FACEBOOK SINGAPORE PTE. LTD.,"Data Scientist, Product",MCF-2021-0238234,"MARINA ONE WEST TOWER, 9 STRAITS VIEW 018937",Permanent,Professional,4 years exp,Information Technology,"$10,000to$20,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+We’re looking for Data Scientists to work on our business products to help shape the future of what we build at Facebook. You will support the two hundred million businesses, including ten million advertisers, who depend on us for their livelihoods. You will create the tools that power Facebook's core revenue streams, including new business models, that are used by businesses, big and small, all around the world. You will enjoy working with one of the richest data sets in the world, cutting edge technology, and the ability to see your insights turned into real products on a regular basis. You should have a background in a quantitative or technical field, experience working with large data sets, and experience in data-driven decision making. You are focused on results, a self-starter, and have demonstrated success in using analytics to drive the understanding, growth, and success of a product.
+Responsibilities
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with our business products. Users include all forms of businesses, salespeople, developers, and more
+Partner with Product and Engineering teams to solve problems and identify trends and opportunities
+Inform, influence, support, and execute our product strategy, decisions, and launches
+The Data Scientist Analytics role has work across the following four areas:
+Product Operations: Forecasting and setting product team goals. Designing and evaluating experiments and/or causal inference studies. Monitoring key product metrics, understanding root causes of changes in metrics. Building and analyzing dashboards and reports. Building key data sets to empower operational and exploratory analysis, evaluating and defining metrics
+Exploratory Analysis: Proposing what to build in the next roadmap. Understanding ecosystems, user behaviors, and long-term trends. Identifying new levers to help move key metrics. Building models of user behaviors for analysis or to power production systems
+Product Leadership: Influencing product teams through presentation of data-based recommendations. Communicating state of business, experiment results, etc. to product teams. Spreading best practices to analytics and product teams, Leading cross-functionally on defining and executing on analyses, including across other data scientists, data engineers, software engineers, user researchers, and others
+Minimum Qualifications
+3+ years of experience with exploratory analysis and market sizing to inform development of new product strategy
+3+ years of experience communicating the results of analyses and aligning cross-functional teams to influence the strategy
+Bachelors/Masters Degree with 5+ years (or PhD with 3+ years) of experience in the following areas:
+Experience with applied statistics, including causal inference and experimentation (i.e. A/B testing) in an industry setting, especially for complex multi-sided ecosystems and/or low sample size environments
+Experience doing complex quantitative analysis and working with distributed (i.e. Hive, Hadoop or similar databases) or highly complex dataset
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, SAS, MATLAB)
+3+ years of experience providing analytical support in 1+ of these backgrounds: B2B/Enterprise companies, Advertising Technology/Digital Advertising, Financial Technology, Platforms/Marketplaces, Front-end tools for business customers, Quantitative Consulting
+3+ years of experience in one or more of these types of analytics: Back-end quality/Performance & Reliability, Risk & Integrity, Infrastructure system design, Marketing Analytics
+Preferred Qualifications
+2+ years of leadership experience in supporting a technical team
+Applied experience of machine learning algorithms (e.g. issue detection, recommendation systems, search ranking, flow optimisation)"
+17,FACEBOOK SINGAPORE PTE. LTD.,"Data Scientist, Product",MCF-2021-0238232,"MARINA ONE WEST TOWER, 9 STRAITS VIEW 018937",Permanent,Professional,3 years exp,Information Technology,"$8,000to$16,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+We’re looking for Data Scientists to work on our business products to help shape the future of what we build at Facebook. You will support the two hundred million businesses, including ten million advertisers, who depend on us for their livelihoods. You will create the tools that power Facebook's core revenue streams, including new business models, that are used by businesses, big and small, all around the world. You will enjoy working with one of the richest data sets in the world, cutting edge technology, and the ability to see your insights turned into real products on a regular basis. You should have a background in a quantitative or technical field, experience working with large data sets, and experience in data-driven decision making. You are focused on results, a self-starter, and have demonstrated success in using analytics to drive the understanding, growth, and success of a product.
+
+Responsibilities
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with our business products. Users include all forms of businesses, salespeople, developers, and more
+Partner with Product and Engineering teams to solve problems and identify trends and opportunities
+Inform, influence, support, and execute our product strategy, decisions, and launches
+The Data Scientist Analytics role has work across the following four areas:
+Product Operations: Forecasting and setting product team goals. Designing and evaluating experiments and/or causal inference studies. Monitoring key product metrics, understanding root causes of changes in metrics. Building and analyzing dashboards and reports. Building key data sets to empower operational and exploratory analysis, evaluating and defining metrics
+Exploratory Analysis: Proposing what to build in the next roadmap. Understanding ecosystems, user behaviors, and long-term trends. Identifying new levers to help move key metrics. Building models of user behaviors for analysis or to power production systems
+Product Leadership: Influencing product teams through presentation of data-based recommendations. Communicating state of business, experiment results, etc. to product teams. Spreading best practices to analytics and product teams, Leading cross-functionally on defining and executing on analyses, including across other data scientists, data engineers, software engineers, user researchers, and others
+Minimum Qualifications
+3+ years of experience with exploratory analysis and market sizing to inform development of new product strategy
+3+ years of experience communicating the results of analyses and aligning cross-functional teams to influence the strategy
+Bachelors/Masters Degree with 5+ years (or PhD with 3+ years) of experience in the following areas:
+Experience with applied statistics, including causal inference and experimentation (i.e. A/B testing) in an industry setting, especially for complex multi-sided ecosystems and/or low sample size environments
+Experience doing complex quantitative analysis and working with distributed (i.e. Hive, Hadoop or similar databases) or highly complex dataset
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, SAS, MATLAB)
+3+ years of experience providing analytical support in 1+ of these backgrounds: B2B/Enterprise companies, Advertising Technology/Digital Advertising, Financial Technology, Platforms/Marketplaces, Front-end tools for business customers, Quantitative Consulting
+3+ years of experience in one or more of these types of analytics: Back-end quality/Performance & Reliability, Risk & Integrity, Infrastructure system design, Marketing Analytics
+Preferred Qualifications
+2+ years of leadership experience in supporting a technical team
+Applied experience of machine learning algorithms (e.g. issue detection, recommendation systems, search ranking, flow optimisation)"
+18,MORGAN MCKINLEY PTE. LTD.,Data Scientist,MCF-2021-0084295,"ONE RAFFLES PLACE, 1 RAFFLES PLACE 048616",Contract,Professional,2 years exp,Information Technology,"$5,000to$9,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+DUTIES:
+Implementing machine learning techniques on curated datasets to solve business problems in the banking sector
+Work closely with stakeholders to understand business needs and define requirements related to data science solution
+Design data driven experiments and interpret results to draw detailed and actionable conclusion
+Write efficient code to automate the process of data and model workflow
+REQUIREMENTS:
+Solid understanding of data science lifecycle, including feature selection, data modelling, hyperparameter finetuning. etc.
+Proficiency in Python and related data processing libraries, e.g. pandas, numpy, sklearn
+Strong foundation in math, statistics and programming
+Ability to work independently and collaboratively in a interdisciplinary team environment
+Experience in deep learning is a plus
+Experience in deploying ML models in production is a plus"
+19,MORGAN MCKINLEY PTE. LTD.,Data Scientist,MCF-2021-0029411,"ONE RAFFLES PLACE, 1 RAFFLES PLACE 048616",Contract,Professional,2 years exp,Information Technology,"$6,000to$10,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+DUTIES:
+Learn and understand the variance business and product context where existing machine learning models have been developed.
+Own the entire pipeline of build, test, deploy and validate models.
+Implement, refactor and rebuild models whenever necessary.
+Develop database architectures, ETL functions, compute infrastructure, and optimization of AIops procedures. Write and maintain code for automating the process of data and models.
+REQUIREMENTS:
+Bachelor’s degree in math, computer science, statistics, electrical engineering, or related quantitative fields.
+Proficient in Python or Scala with strong capabilities in data manipulation, writing ETLs and doing data exploration and analytics.
+Experienced in classical machine learning algorithms such as logistic regression, neural networks, decision trees and graph based models.
+Solid knowledge of deep learning models and frameworks.
+Knowledge of the various services and capabilities of cloud computing platforms including AWS and Azure, especially on data storage and manipulation.
+Knowledge of running end to end data science workflow including putting models into batch prediction, scheduling (like Airflow/Kubeflow) and interfacing with production systems.
+Experience in deploying algorithms into real time production environments (e.g online feature stores and model serving frameworks like Tensorflow / ONNX/ Pytorch serving).
+Self-motivated and independent learner with strong communication skills"
+20,TOOKITAKI HOLDING PTE. LTD.,Senior Software Engineer - Data Engineer,MCF-2021-0238169,"HIGH STREET CENTRE, 1 NORTH BRIDGE ROAD 179094",Full Time,Executive,2 years exp,"Engineering, Information Technology","$7,000to$9,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Job Title: SSE DE
+
+Tookitaki is looking for a Data Engineer who is familiar with the Hadoop platform and is able to design, implement and maintain optimal data/machine learning (ML) pipelines in the platform.
+
+The following are the main responsibilities of the role:
+Responsibilities
+
+• Designing and implementing fine-tuned production ready data/ML pipelines in Hadoop platform.
+• Driving optimization, testing and tooling to improve quality.
+• Reviewing and approving high level & detailed design to ensure that the solution delivers to the business needs and align to the data & analytics architecture principles and roadmap.
+• Understanding business requirement and solution design to develop and implement solutions that adhere to big data architectural guidelines and address business requirements.
+• Following proper SDLC (Code review, sprint process).
+• Identifying, designing, and implementing internal process improvements: automating manual processes, optimizing data delivery, etc.
+• Building robust and scalable data infrastructure (both batch processing and real-time) to support needs from internal and external users
+• Understanding various data security standards and using secure data security tools to apply and adhere to the required data controls for user access in Hadoop platform.
+• Supporting and contributing to development guidelines and standards for data ingestion
+• Working with data scientist and business analytics team to assist in data ingestion and data related technical issues.
+• Designing and documenting the development & deployment flow.
+
+Requirements
+• Experience in developing rest API services using one of the Scala frameworks
+• Ability to troubleshoot and optimize complex queries on the Spark platform
+• Expert in building and optimizing ‘big data’ data/ML pipelines, architectures and data sets
+• Knowledge in modelling unstructured to structured data design.
+• Experience in Big Data access and storage techniques.
+• Experience in doing cost estimation based on the design and development.
+• Excellent debugging skills for the technical stack mentioned above which even includes
+analyzing server logs and application logs.
+• Highly organized, self-motivated, proactive, and ability to propose best design solutions.
+• Good time management and multitasking skills to work to deadlines by working independently and as a part of a team.
+• Ability to analyse and understand complex problems.
+• Ability to explain technical information in business terms.
+• Ability to communicate clearly and effectively, both verbally and in writing.
+• Strong in user requirements gathering, maintenance and support
+• Excellent understanding of Agile Methodology.
+• Good experience in Data Architecture, Data Modelling, Data Security.
+
+Experience -Must have:
+a) Scala: Minimum 2 years of experience
+b) Spark: Minimum 2 years of experience
+c) Hadoop: Minimum 2 years of experience (Security, Spark on yarn, Architectural knowledge)
+d) Hbase: Minimum 2 years of experience
+e) Hive - Minimum 2 years of experience
+f) RDBMS (MySql / Postgres / Maria) - Minimum 2 years of experience
+g) CI/CD Minimum 1 year of experience"
+21,ITCAN PTE. LIMITED,Data Analytics,MCF-2021-0237292,"PRUDENTIAL TOWER, 30 CECIL STREET 049712",Full Time,Senior Executive,6 years exp,Engineering,"$6,000to$9,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Responsibilities:
+Formulating, suggesting, and managing data-driven projects which are geared at furthering the business's interests.
+Collating and cleaning data from various entities for later use by junior data scientists.
+Delegating tasks to Junior Data Scientists in order to realize the successful completion of projects.
+Monitoring the performance of Junior Data Scientists and providing them with practical guidance, as needed.
+Selecting and employing advanced statistical procedures to obtain actionable insights.
+Cross-validating models to ensure their generalizability.
+Producing and disseminating non-technical reports that detail the successes and limitations of each project.
+Suggesting ways in which insights obtained might be used to inform business strategies.
+Staying informed about developments in Data Science and adjacent fields to ensure that outputs are always relevant.
+Requirements:
+Advanced degree in data science, statistics, computer science, or similar.
+Extensive experience as a data scientist.
+Proficiency in R or Python, where the former is preferred.
+In-depth understanding of SQL.
+Competent in machine learning principles and techniques.
+Demonstrable history of devising and overseeing data-centered projects.
+Ability to relay insights in layman's terms, such that these can be used to inform business decisions.
+Outstanding supervision and mentorship abilities.
+Capacity to foster a healthy, stimulating work environment that frequently harnesses teamwork.
+Compliance with prevailing ethical standards."
+22,CHARTERHOUSE PTE. LTD.,Machine Learning Architect,MCF-2021-0236639,"BANK OF CHINA BUILDING, 4 BATTERY ROAD 049908",Permanent,Senior Executive,10 years exp,Human Resources,"$15,000to$25,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+The Client is an established Global Bank with aggressive growth plans.
+Committed to their digital and data transformation journey, they have invested in new headcounts to hire a ML Architect to look at optimizing their big data platform.
+Reporting to the Global head of data platform, this role requires you to leverage on existing and new AI/ML tools to define the data strategy, architecture and roadmap for the business. This includes implementing new capabilities and managing the overall delivery and operations such as supporting the entire business data needs. You will need to work closely with data engineers, vendors and built strong internal partnerships across the business to evaluate and identify opportunities using AI/ML solutions to drive automation. Experience developing and deploying AI/ML prototypes is key. You will be familiar in defining data architecture strategy, create workflows, automate and scale AI/ML operations.
+
+Requirements:
+Recognized degree in Computer Science, Engineering, Data science, AI or equivalent.
+Minimum 10-12 years of experience as a ML engineer or Data Scientist
+5 years of experience with architecture, design and implementation of AI/ML technologies
+Strong technical skills in Go, C++, Java, Python
+Experience developing and deploying full AI/ML solution life cycle models
+Strong stakeholder management skills
+
+Please contact Marie Goh at MarieG@charterhouse.com.sg for a confidential discussion.
+EA License no: 16S8066 | Registration no: R1980996
+
+
+Only successful candidates will be notified."
+23,EPAM SYSTEMS PTE. LTD.,Software Engineer (MLE),MCF-2021-0237730,Islandwide,Full Time,Professional,4 years exp,Information Technology,"$5,500to$11,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Responsibilities
+Apply cutting edge technologies and tools in big data and machine learning to build, manage and automate pipelines for machine learning models and analytics platform
+Implement machine learning algorithms and build production grade end-to-end analytics solution to solve business challenges together with Data Scientists and business team
+Implement and apply industry standard Auto ML solutions to solve real world challenges
+Create blueprint and reference architecture for various machine learning use cases
+Study and evaluate the state-of-the-art technologies, tools, and frameworks of machine learning engineering, and establish, apply and maintain best practices and principles of machine learning
+Perform code optimization, code reviews to improve the quality of Data Scientist’s work
+Automate software testing by writing unit tests for all production code
+Monitor machine learning model releases, branches for different issues and user stories
+Manage available resources such as hardware, data, and personnel so deadlines are met
+Work with different stakeholders to ensure that the bank’s production release process is adhered to
+Requirements
+Bachelor’s or master’s degree in software Engineering, Computer Science or related fields
+4+ years of experience in industry (ideally banking, ecommerce, telecoms, retail, and consulting) with demonstrated track record of leveraging advanced analytics to achieve business impact.
+At least 2 years of experience in data mining and machine learning on large amount of data, and multi-tier software application development and DevOps automation
+Excellent understanding of software engineering principles and design patterns.
+Familiar with tools such as JIRA, Git and Jenkins
+Excellent programming skills in Python (Pandas, NumPy), SQL, bash and willingness to learn other languages as required by the project
+Experience with Spark, Hadoop and how to optimize Spark jobs that analyse huge amounts of data for better performance
+Experience with Kubernetes, PCF and services in AWS to deploy ML models as REST APIs
+Familiar with industry paradigms and standards for model development, validation and testing and have developed and implemented large-scaled industrial standard machine learning solutions from end to end.
+Strong in problem-solving, being resourceful with end to end critical thinking to find out solutions even in unfamiliar scenarios.
+Good communication and project management skills.
+Strong interests in learning about recent developments in machine learning through own initiatives"
+24,KINGFISHER RECRUITMENT (SINGAPORE) PTE. LTD.,Lead Data Scientist,MCF-2021-0198703,"PRUDENTIAL TOWER, 30 CECIL STREET 049712",Permanent,Manager,6 years exp,Information Technology,"$13,500to$17,500",Posted 03 May 2021,Closing on 02 Jun 2021,"Roles & Responsibilities
+A global technology leader is expanding their Data Science practice across the region. They are seeking seasoned Data Scientists to lead teams and drive engagements for large scale projects.
+
+Ideally, you should:
+Have led or managed data science teams
+Have hands-on experience in building machine learning models using large datasets and deployed them into production environment
+Be confident in managing business stakeholders
+Have real world experience in customer analytics, marketing analytics, product analytics use cases
+Be interested in working on high security projects
+Required skill sets:
+Strong in R, Python, SQL, SAS
+Hands-on experience in Hadoop ecosystem, SQL, NoSQL databases and/or cloud platforms (AWS, GCP, Azure etc.)
+6 to 10 years of relevant experience
+Solid background in statistics, mathematics, computer science and/or other quantitative qualifications
+
+EA Reg. No.: R1435970 | EA Licence: 17C8713"
+25,EPAM SYSTEMS PTE. LTD.,Senior Software Engineer (MLE),MCF-2021-0237618,Islandwide,Full Time,Professional,6 years exp,Information Technology,"$6,500to$13,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Responsibilities
+Apply cutting edge technologies and tools in big data and machine learning to build, manage and automate pipelines for machine learning models and analytics platform
+Implement machine learning algorithms and build production grade end-to-end analytics solution to solve business challenges together with Data Scientists and business team
+Implement and apply industry standard Auto ML solutions to solve real world challenges
+Create blueprint and reference architecture for various machine learning use cases
+Study and evaluate the state-of-the-art technologies, tools, and frameworks of machine learning engineering, and establish, apply and maintain best practices and principles of machine learning
+Perform code optimization, code reviews to improve the quality of Data Scientist’s work
+Automate software testing by writing unit tests for all production code
+Monitor machine learning model releases, branches for different issues and user stories
+Manage available resources such as hardware, data, and personnel so deadlines are met
+Work with different stakeholders to ensure that the bank’s production release process is adhered to
+Requirements
+Bachelor’s or master’s degree in software Engineering, Computer Science or related fields
+6+ years of experience in industry (ideally banking, ecommerce, telecoms, retail, and consulting) with demonstrated track record of leveraging advanced analytics to achieve business impact.
+At least 4 years of experience in data mining and machine learning on large amount of data, and multi-tier software application development and DevOps automation
+Excellent understanding of software engineering principles and design patterns.
+Familiar with tools such as JIRA, Git and Jenkins
+Excellent programming skills in Python (Pandas, NumPy), SQL, bash and willingness to learn other languages as required by the project
+Experience with Spark, Hadoop and how to optimize Spark jobs that analyse huge amounts of data for better performance
+Experience with Kubernetes, PCF and services in AWS to deploy ML models as REST APIs
+Familiar with industry paradigms and standards for model development, validation and testing and have developed and implemented large-scaled industrial standard machine learning solutions from end to end.
+Strong in problem-solving, being resourceful with end to end critical thinking to find out solutions even in unfamiliar scenarios.
+Good communication and project management skills.
+Strong interests in learning about recent developments in machine learning through own initiatives"
+26,SWAT MOBILITY PTE. LTD.,Front End Engineer (Web),MCF-2021-0236915,"NOVENA SQUARE, 238A THOMSON ROAD 307684",Full Time,Executive,2 years exp,Engineering,"$4,000to$5,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Our mission is to organize the movement of cities. We believe that technology will change how we move, and that our Core Mobility Engine has the power to fuel the transformation of the mobility and logistics sectors.
+
+The SWAT engineering team is on a mission to build a suite of transport and logistics applications which will empower businesses to change the way they organise movement.
+
+As a Software Engineer on the Engineering team, you will be working with cutting-edge technology to solve complex engineering and user problems at scale. SWAT operates in Singapore, Australia, Japan, The Philippines, Thailand and Vietnam. We are tackling some of the most challenging transport/logistics problems in the world’s most congested cities.
+
+You will have the opportunity to work with a cross-functional team of Product Designers, Software Engineers, Data Scientist and Product Managers within our organization to solve complex problems and build features and experiences on our mobile applications to drive the growth of our business.
+
+Responsibilities:
+Responsible for creating beautiful, scalable, and performant experiences our web applications
+Develop and maintain fast, bug-free, and re-usable components for our internal component library
+Working closely with the Product, Design and Data Science and Engineering teams to define and develop the company’s experiences and new features
+Work closely with our product design team to translate design into fully functional experiences
+Requirements:
+BS degree in Computer Science, Computer Engineering or a similar technical field of study or equivalent practical experience.
+At least 2 years of experience working on Javascript development
+Excellent written and verbal communication skills
+Ability to collaborate with a multidisciplinary and multicultural team of Software Engineers, Product Designers, User Researchers, Data Scientists and Data Analysts to come up with solutions to problems
+Experience using ReactJS or React Native frameworks is a plus"
+27,SWAT MOBILITY PTE. LTD.,Mobile Engineer,MCF-2021-0236926,"NOVENA SQUARE, 238A THOMSON ROAD 307684",Full Time,Executive,2 years exp,Engineering,"$4,000to$5,000",Posted 25 May 2021,Closing on 24 Jun 2021,"Roles & Responsibilities
+Our mission is to organize the movement of cities. We believe that technology will change how we move, and that our Core Mobility Engine has the power to fuel the transformation of the mobility and logistics sectors.
+
+The SWAT engineering team is on a mission to build a suite of transport and logistics applications which will empower businesses to change the way they organise movement.
+
+As a Mobile Engineer on the Engineering team, you will be working with cutting-edge technology to solve complex engineering and user problems at scale. SWAT operates in Singapore, Australia, Japan, The Philippines, Thailand and Vietnam. We are tackling some of the most challenging transport/logistics problems in the world’s most congested cities.
+
+You will have the opportunity to work with a cross-functional team of Product Designers, Software Engineers, Data Scientist and Product Managers within our organization to solve complex problems and build features and experiences on our mobile applications to drive the growth of our business.
+
+Responsibilities:
+Responsible for creating beautiful, scalable, and performant experiences on our mobile applications
+Develop and maintain fast, bug-free, and re-usable components for our internal component library
+Working closely with the Product, Design and Engineering teams to define and develop the company’s mobile experiences and new features
+Work closely with our product design team to translate design into fully functional experiences
+Requirements:
+BS degree in Computer Science, similar technical field of study or equivalent practical experience.
+At least 2 years of experience working on Javascript development, iOS or Android
+Excellent written and verbal communication skills
+Ability to collaborate with a multidisciplinary and multicultural team of Software Engineers, Product Designers, User Researchers, Data Scientists and Data Analysts to come up with solutions to problems
+Experience using ReactJS or React Native frameworks is a plus"
+28,NSEARCH GLOBAL PTE. LTD.,Data Scientist (contract),MCF-2021-0235079,Islandwide,Contract,Professional,5 years exp,"Banking and Finance, Information Technology","$7,500to$10,000",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+Our client, one of Asia-Pacific’s leading organizations is looking for:
+Data Scientist (contract)
+Responsibilities:
+Employ statistics/computer science techniques to extract, clean and interpret the data into insights from structured and unstructured data. Web scraping may be also a part of the work scope in data extraction
+Work in an Agile Environment that practices Continuous Integration and Delivery
+Support and advise best practices in data management standards, policies and procedures
+Requirements:
+Bachelor or Masters or higher degree in Statistics, Analytics, Applied Mathematics, Operation Research, Engineering or equivalent quantitative fields preferred
+Proficient with processing data from open-standard file format or data interchange format (e.g. XML, JSON)
+Proficient in advanced analytics techniques (e.g. machine learning algorithms, statistical methods: regression, classification)
+Experience in research or industry experience pertaining to data (e.g. Predictive, Fraud/Anomaly Detection, Text Analytics, Customer Segmentation)
+Proficient in statistical software tools (e.g. R, Python, Stata)
+Proficient in Business Intelligence tools (e.g. Tableau, Qlik, MS PowerBI, Microstrategy)
+Familiar with data modelling, data access, and data storage infrastructure like Data Mart, Data Lake, and Data Warehouse
+Proficient in general data cleaning and transformation (e.g. SQL, pandas, R)
+-------------------------------------------------------------------------------------------------------------------
+Interested applicants can also email CV at harry@nsearchglobal.com (for faster processing, please state the exact job / position title applied “Data Scientist”)
+Only shortlisted candidates will be notified.
+-------------------------------------------------------------------------------------------------------------------
+EA License Number: 10C3636
+EA Personnel Name: Arora, Hardeep
+EA Personnel Registration Number: R1111454"
+29,INDEED SINGAPORE OPERATIONS (PTE.) LTD.,Senior Data Scientist,MCF-2021-0233933,60 Anson Road 079914,Permanent,Senior Executive,4 years exp,Information Technology,"$10,416to$12,916",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+As a Data Scientist at Indeed your role is to follow the data. Analyze and visualize them. You will also build and implement machine learning models to make timely decisions. You will have to effectively work independently and as part of a team, and be able to execute loosely-defined work items, including defining precise requirements. You will have access to unparalleled resources within Indeed to grow and develop both personally and professionally.
+The International Application Quality team is at the forefront of the job application journey for both job seekers and employers. We help them discover the good match and expose the information they need to make effective decisions. To achieve this goal, the team leverages rich data on Indeed and adopts various techniques from machine learning, information retrieval and natural language processing. Our work covers lots of international markets Indeed is operating on.
+Responsibilities:
+Conceptualize, analyze, build, test, and implement models that utilize various and diverse data sets to solve problems related to the employment and recruiting industries
+Build and implement machine learning models, testing frameworks, and visualizations to make timely decisions and influence the product roadmap
+Proactively research data and identify opportunities in the data to drive the product roadmap
+Evaluate data’s big picture to solve business problems rather than focusing on metrics alone
+Understand human behavior and know what to look for in the data
+Communicate concisely and persuasively with engineers and product marketers. Helps identify ways to improve data quality and analysis. Utilizes a solid understanding of Indeed’s business fundamentals.
+Who You Are
+Bachelor’s degree in Computer Science, Statistics, Electrical Engineering, Mathematics, or a closely related quantitative field
+3+ years of professional industry experience in Data Science, Business Analytics, or Data Analysis
+Expertise in machine learning, natural language processing, and statistical modeling
+Passion to answer Product/Engineering questions with data
+Strong ability to code in Python
+Strong communication and collaboration skills
+We get excited about candidates who:
+Have full stack experience in data collection, aggregation, analysis, visualization, productionization, and monitoring of data science products
+Have the desire to solve difficult problems at the intersection of machine learning, data engineering, and software engineering
+Are proficient in small data modeling work: Python, R, Julia
+Are proficient in big data modeling work: Hadoop, Scala, Spark
+Can fish for data: Pandas, SQL, MongoDB
+Build data pipelines: Luigi, Airflow
+Deploy data science solutions: Java, Python, C++
+Communicate concisely and persuasively with engineers and product managers"
+30,MIRANA TECH PTE. LTD.,Data Scientist,MCF-2021-0235737,Islandwide,"Permanent, Full Time",Executive,2 years exp,Information Technology,"$5,000to$10,000",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+Responsibilities
+· Feature engineering on financial market data and market trends
+· Research on financial market data with purpose of detecting trading behaviour anomaly and market patterns
+· Develop risk management system for the exchange by identifying the leading factors of market movements and measuring the impact of market fluctuations
+· Enhancing data collection procedures to include information that is relevant for building analytic systems
+· Processing, cleansing, and verifying the integrity of data used for analysis
+· Building models to address business problem
+· Presenting information using data visualization techniques
+· Selecting features, building and optimizing classifiers using machine learning techniques
+· Extending company’s data with third party sources of information when needed
+· Creating automated anomaly detection systems and constant tracking of its performance
+
+Requirements
+· Proven previous experience as a Data Scientist or Data Analyst
+· Large market experience (USA, China, India etc) required
+· Degree in Computer Science / Statistics / Mathematics / Financial Engineering or other quantitative field is a must
+· Ability to speak native level Mandarin in order to collaborate with Mandarin speaking colleagues and clients based in Mainland China, who can’t speak English
+· Experience in data mining
+· Experience in machine learning application in finance market data, preferably in pattern recognition, anomaly detection. Familiarity with unsupervised algorithms
+· Proficiency in Python/C++/Java/R
+· Working experience with databases like SQL/ElasticSearch
+· Exposure to algorithm trading and knowledge of market microstructure is a plus
+· Familiarity with AWS and Linux is a plus
+· Good applied statistics skills, such as distributions, statistical testing, regression, etc
+· Problem Solving aptitude
+· Ability to meet deadlines and work in a fast-paced environment
+· Team player who is independent and collaborative"
+31,GLINTS INTERN PTE. LTD.,Data Scientist,MCF-2021-0235257,Islandwide,Permanent,Senior Executive,4 years exp,Information Technology,"$8,000to$10,000",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+As a Data Scientist, you will support product managers, engineers and business stakeholders in building data products using machine learning. The tools the client uses most are Python, UNIX and SQL. You’ll adapt quickly and assist as needed in a rapidly changing, fast-paced environment, while effectively communicating up-to-date status of projects and deftly managing resources and timelines, as directed.
+Your strong statistics and programming fundamentals will allow you to assist in building scalable solutions and to deepen your ML and engineering skills, and your ability to learn about our business and collaborate effectively within and across teams will help to maximize the value you can bring.
+This position is intended to provide support services as needed and reports to the VP of Data Science.
+Responsibilities:
+gain a deep understanding of the client’s business and its organization
+see things from the customer’s perspective, and understand the roles of personalization and basket building in the b2c customer experience
+recognize the importance of modularization and scalability for saas applications
+learn and apply techniques like classification, regression, causal inference, Bayesian statistics, reinforcement learning and neural networks
+working with others, support, develop, QA and maintain predictive machine learning models to address business problems
+find ways to apply new developments in ML to practical problems
+provide support by uncovering new problems to solve that will impact our business
+investigate model performance as directed and determine when refits are needed
+ensure projects are completed on time and with a high degree of accuracy, as directed
+ensure all models are following the established rules for data privacy and governance of production models
+stay up-to-date on the latest developments in machine learning and AI
+Qualifications
+4+ years working with data and writing code in a practical setting (experience in an e-commerce, SaaS and/or early-stage company definitely a plus)
+BS/BA degree in a quantitative field
+ability to understand and write basic UNIX shell scripts, SQL queries and Python code
+strong communications skills and a driving sense of curiosity
+Others
+Attractive benefits (e.g. corporate insurance, healthcare, dental)
+Flexible working hours"
+32,EQUINIX ASIA PACIFIC PTE. LTD.,Data Science Analyst,MCF-2021-0235043,79 ROBINSON ROAD 068897,Full Time,Professional,5 years exp,Information Technology,"$6,416to$10,914",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+Who are we?
+Equinix is the world’s digital infrastructure company, operating 210 data centers across the globe and providing interconnections to all the key clouds and networks. Businesses need one place to simplify and bring together fragmented, complex infrastructure that spans private and public cloud environments. Our global platform allows customers to place infrastructure wherever they need it and connect it to everything they need to succeed.
+At Equinix, we help the world’s digital leaders scale with agility, speed the launch of digital services, deliver world-class experiences, and transform people’s lives. Our culture is based on collaboration and the growth and development of our teams.
+We hire hardworking people who thrive on solving challenging problems and give them opportunities to hone new skills, and try new approaches, as we grow our product portfolio with new software and network architecture solutions. We embrace diversity in thought and contribution and are committed to providing an equitable work environment. that is foundational to our core values as a company and is vital to our success.
+Job Summary: Partners with the business and IT community to ensure that the right people have access to the right data in the right format at the right time. This Data Scientist is an advanced technical professional responsible for exploring and analyzing data across the enterprise and presenting information and key insights that support the organization's strategies. The Data Scientist has in-depth knowledge across multiple technical environments as well as strong business acumen and provides expertise regarding systems design, integration and performance analysis across the business. The role expects the knowledge of data wrangling and data analysis for better storytelling with data. The role promotes shared infrastructure and applications to reduce costs and improve information flows, and it ensures that new technology solutions do not duplicate functionality or diverge from each other and business and IT strategies. Takes direction from leads and continues to develop hands-on knowledge.
+Responsibilities
+Business Analysis
+Takes direction from lead analysts on identified opportunities and improves organizational effectiveness with enhanced or new analysis techniques and insights
+Participates and learns on gathering core requirements within broader context
+Visualization
+Ability to provide storytelling with data. Engage in knit various data from different data sources and build compelling story to enable better insights into data
+Analyze and investigate various data using visualization techniques using tools like Tableau, Power BI
+Experiment with data using advances analytics techniques to identify unique insights in data and share them to stakeholders
+Develops compelling data visualizations, dashboards, tools and utilities using Open Source technologies (D3, React.js, etc.) and tools like Tableau, Power BI, etc.
+Organizes data in visually innovative ways in order to make it easy to understand to the stakeholders and technical folks at the same time
+Data Modeling & Analysis & Wrangling
+Understands relationships between data elements in different sources and builds models to help analyze
+Works with large volumes of data; extracts and manipulates large datasets using standard tools such as Python, Hadoop, R, SQL, Spark, etc.
+Analyzes and cleans data needed for various data science projects
+Communicates data patterns identified in both internal and external data using various wrangling techniques
+Helps in data discovery and evolving use cases to identify prediction/prescriptive solutions
+Stakeholder Management
+Understands stakeholder expectations and communications within the area of delivery
+Takes direction to identify and include correct stakeholders
+Interacts regularly with the team in reviewing current solutions, results and evolving models in ensuring results are fine-tuned constantly
+Solution Design
+Participates in brainstorming sessions to understand various internal/external factors that can impact the data analysis
+Participates in solutions to assigned requirements
+Participates with the team to analyze and propose innovative solutions to replace legacy systems and data, such as individually-created and widely dispersed databases and spreadsheets, to better align with Equinix enterprise information standards and strategies
+Applies knowledge in design, development, implementation and management of data sources
+Learns and applies modeling techniques and implementation methodologies
+Utilizes basic statistical models, algorithms and machine learning models in designing the solution
+Develops technical skills in exploring and analyzing data across the enterprise and presents information and key insights that support the organization's growth and sustain strategies
+Documentation
+Documents project deliverables in collaboration with teams and business users
+Data Management/Architecture/Design
+Develops knowledge across a few technical environments
+Understands and develops data sources and data architectures to address business requirements
+Follows Industry trends and vendor capabilities to produce robust functional designs
+Understands innovation in the space of Cloud Big Data by exploring and implementing data centric technologies, on Data Platforms like GCP, AWS
+Under direction, builds solutions to bring data from various source systems both internal and external to Equinix
+Testing & Test Design
+Understands the business problem and technical design and develops test cases in alignment
+Collaborates with senior BSAs and technical team to develop test cases
+Project Management
+Manages end-to-end delivery of enhancements
+Plans the delivery cycle in line with release goals
+Software Engineering
+Develops skills in data warehousing methodologies and tools
+Learns and works with scripting/programming languages (Perl, Python, PHP, Java, VB, C#, R, etc.) in developing solutions
+Vendor Management
+Assists vendor resources with onboarding activities through all Equinix channels: email, laptop, access to systems, workspace, etc.
+Vendor & Technology Evaluation
+Conducts analysis on vendor and application options, i.e., Magic Quadrant, as a key input to selection cycles
+Assists in building RFP documentation and selection criteria tools
+Qualifications
+5+ years experience
+Bachelor's in Data Science, Computer Science or Machine Learning
+Equinix is an equal opportunity employer. All applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with disability."
+33,XYPHER PTE. LTD.,Temp Data Analyst (5-6 months contract),MCF-2021-0234534,"MOUNTBATTEN SQUARE, 229 MOUNTBATTEN ROAD 398007",Temporary,Executive,3 years exp,Information Technology,"$5,000to$7,000",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+About the role
+As a Data Analyst at DATAVLT, you will be reporting to the Head of Data Scientist and Software Engineers who are focused on solving complex business problems,using data science as an underlying technology.
+
+Responsibilities
+As our Data Analyst, you will•
+· Process confidential data and information according to guidelines
+· Help on build innovative data products using cutting edge tools and technologies
+· Develop custom data models and algorithms to apply to data sets.
+· Undertake pre-processing of structured and unstructured data
+· Analyse large amounts of information to discover trends and patterns
+· Propose solutions and strategies to business challenges
+· Coordinate with different functional teams to implement models and monitor outcomes.
+
+Required Technical and Professional Expertise:
+· Proficiency using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+· Have foundational knowledge of data structures and algorithms
+· Excellent analytical, interpersonal and communication skills.
+· Strong problem-solving skills with an emphasis on product development.
+· Experience working with and creating data architectures.
+· Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+· Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+· Excellent written and verbal communication skills for coordinating across teams.
+· Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Dockers, MySQL, etc.
+· Experience visualizing/presenting data for stakeholders using: Tableau, High charts, D3, gg plot, etc.
+
+Good to have
+· Minimum 3 years working experience manipulating data sets and building statistical models, has a Master’s in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the software/tools
+· Experience with customizing Data Visualization tools
+· Have fundamental knowledge of blockchain technology
+· Software development experience added advantage
+· A drive to learn and master new technologies and techniques. What's in it for you
+· Help shape the future of a Data Analytics and Blockchain start-up in Singapore with global aspirations
+· Be yourself, be engaged and have fun while you're at it
+· Fair remuneration
+· Open work culture
+
+Interested Candidate please email to : hr@datavlt.com"
+34,IQPC WORLDWIDE PTE LTD,Web Developer,MCF-2021-0234439,61 CLUB STREET 069436,"Permanent, Full Time",Senior Executive,2 years exp,Information Technology,"$4,500to$6,500",Posted 24 May 2021,Closing on 23 Jun 2021,"Roles & Responsibilities
+Temporarily Work From Home
+Work Life Balance
+Great Working Environment
+
+IQPC provides business executives around the world with tailored practical conferences, large-scale events, topical seminars, in-house training programs, and delivers a full suite of B2B digital opportunities, keeping them up-to-date with industry trends. IQPC produces more than 1,500 events annually around the world, and continues to grow. Founded in 1973, IQPC now has offices in major cities across six continents including Berlin, Dubai, London, New York, Singapore, Sydney and Tampa. IQPC's large-scale conferences are market leading “must attend” events for their respective industries.
+
+SSON Analytics is the global data analytics centre of the Shared Services & Outsourcing Network (SSON), a division of IQPC. At SSON Analytics, we offer visual data insights that are simple, accurate, and digestible through a variety of data tools and analytics reports to the SSON community (i.e. global business services executives and business leaders who leverage technology and best practices to improve operational efficiency).
+The Role
+SSON Analytics is seeking an experienced Full-Stack Web Developer to join the team. As a Web Developer, you will be responsible for creating the visual analytics reports and managing the various data tools on the SSON Analytics website and its internal applications.
+
+· Coding both server-side and the frontend for existing web-based applications - for both internal and client-facing applications. Developing and maintaining new & existing APIs.
+· Work closely with Data Analyst and/or Data Scientist to publish visual analytics workbook (VAW), design/implement interactive data visualisation tools and possibly to build any product/tools required by the business.
+· Must be able to debug/investigate and/or fix if issues found in the current applications.
+· Able to own projects from end to end - from wireframing, designing DB structures, coding the front-end & the back-end/API, testing, up to deployment & maintenance.
+· Should have a strong understanding and/or have practical experience with API Development, database design (MySQL) and AWS.
+· Experience with data visualisations is a great plus.
+· Be interested in continuous improvement and ongoing ways to enhance the user experience
+
+Requirements
+
+· A minimum of 2 year experience of working in web development
+· The ideal candidate should be passionate, have excellent communication skills, the willingness to learn and the ability to work to strict deadlines.
+· Experience working in frontend with HTML5, CSS, Javascript, Bootstrap, jQuery, Angular 1.x, vueJS.
+· Experience working in the backend with apache/nginx, PHP particularly with Laravel/Lumen is a must.
+· Experience with databases especially MySQL and must have a good understanding of SQL queries at least.
+· Familiar with the following visualisation/charting libraries: Highcharts/Highmaps, D3 & google API for maps.
+· Experience with 3rd party APIs such as google API, AWS/S3 API is a plus
+· Experience with managing AWS particularly EC2 and S3 is a plus.
+· Experience in source control (git/bitbucket)
+· Experience with continuous build and deployment using Jenkins is a plus.
+· Knowledgeable in Web Analytics & SEO is also a plus."
