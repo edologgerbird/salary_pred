@@ -84,34 +84,47 @@ def get_jobs(keyword, num_jobs):
             address = browser.find_element_by_xpath('.//p[@id="address"]').text
         except NoSuchElementException:
             address = "NA"
+        
         try:
             employment_type = browser.find_element_by_xpath('.//p[@id="employment_type"]').text
         except NoSuchElementException:
             employment_type = "NA"
+        
         try:
             seniority = browser.find_element_by_xpath('.//p[@id="seniority"]').text
         except NoSuchElementException:
             seniority = "NA"
+        
         try:
             min_exp = browser.find_element_by_xpath('.//p[@id="min_experience"]').text
         except NoSuchElementException:
             min_exp = "NA"
+        
         try:
             job_cat = browser.find_element_by_xpath('.//p[@id="job-categories"]').text
         except NoSuchElementException:
             job_cat = "NA"
+        
         try:       
             salary_range = browser.find_element_by_xpath('.//span[@class="salary_range dib f2-5 fw6 black-80"]').text
         except NoSuchElementException:
-            date_posted = "NA"
+            salary_range = "NA"
+        
+        try:
+            salary_unit = browser.find_element_by_xpath('.//span[@class="ttc salary_type dib f5 fw4 black-60 pr1 i pb"]').text
+        except NoSuchElementException:
+            salary_unit = "NA"
+
         try:
             date_posted = browser.find_element_by_xpath('.//span[@id="last_posted_date"]').text
         except NoSuchElementException:
             date_posted = "NA"
+        
         try:
             date_expiry = browser.find_element_by_xpath('.//span[@id="expiry_date"]').text
         except NoSuchElementException:
             date_expiry = "NA"
+        
         try:
             job_description = browser.find_element_by_xpath('.//div[@id="job_description"]').text
         except NoSuchElementException:
@@ -128,6 +141,7 @@ def get_jobs(keyword, num_jobs):
                 "min_exp": min_exp,
                 "job_cat": job_cat,
                 "salary_range": salary_range,
+                "salary_unit": salary_unit,
                 "date_posted": date_posted,
                 "date_expiry": date_expiry,
                 "job_description": job_description,
