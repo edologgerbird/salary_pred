@@ -136,9 +136,5 @@ def get_jobs(keyword, num_jobs):
     return pd.DataFrame(jobs)
 
 
-    
-job = "data scientist"
-df = get_jobs(job, 55)
-df.to_csv('jobs.csv')
 
 
