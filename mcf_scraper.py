@@ -1,10 +1,8 @@
 # references: arapfaik
 
 
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-import selenium.webdriver.support.ui as ui
 import time
 import pandas as pd
 
@@ -151,4 +149,4 @@ def get_jobs(keyword, num_jobs):
 
 
 
-
+print("hello")
