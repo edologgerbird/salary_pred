@@ -1,6 +1,6 @@
 import pickle
 import pandas as pd 
-import numpy as np
+import math
 
 def load_models():
     file_name = "model_file.p"
@@ -27,7 +27,7 @@ def format_input(min_exp, job_title, employment_type, seniority, job_cat, job_de
 
 def predict(x_input):
     model=load_models()
-    prediction = model.predict(x_input)
+    prediction = math.ceil(model.predict(x_input)[0])
     return prediction
 
 min_exp = 4

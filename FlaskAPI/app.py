@@ -22,7 +22,7 @@ def pred_form():
         session['job_desc'] = form.job_desc.data
         x_input = predictor.format_input(session['min_exp'],session['job_title'], session['employment_type'], session['seniority'], session['job_cat'], session['job_desc'] )
         pred_salary = predictor.predict(x_input)
-        session['pred_salary'] = pred_salary[0]
+        session['pred_salary'] = pred_salary
         return redirect(url_for("success"))
     return render_template(
         "predform.jinja2",
