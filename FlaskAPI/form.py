@@ -3,10 +3,12 @@ from wtforms import (
     TextAreaField,
     SubmitField,
     IntegerField,
+    FloatField,
     SelectField
 )
 from wtforms.validators import (
     DataRequired,
+    InputRequired,
     NumberRange,
 
 )
@@ -14,10 +16,6 @@ from wtforms.validators import (
 class PredForm(FlaskForm):
     min_exp = IntegerField(
         'Minimum Job Experience',
-        [
-            NumberRange(min=0, max=100, message="Please input a valid number"),
-            DataRequired()
-        ]
     )
 
     job_title = SelectField(
