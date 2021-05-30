@@ -36,6 +36,3 @@ employment_type = 'employment_type_full time'
 seniority = 'seniority_Senior Executive'
 job_cat = 'job_cat_accounting / auditing / taxation'
 job_desc = 'hehehehehehe python aws spark hehehehhe r heheheheheh tensorflow'
-
-# x_input = format_input(min_exp, job_title, employment_type, seniority, job_cat, job_desc)
-# print(predict(x_input))
