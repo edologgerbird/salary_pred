@@ -1,0 +1,31 @@
+{% extends 'layout.jinja2' %}
+
+{% block styles %}
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/forms.css') }}"
+        type="text/css"
+    />
+
+{% endblock %}
+
+{% block content %}
+
+    <div class="form-wrapper">
+        <h2 class="title">Predict</h2>
+
+        <form method="POST" action="{{ url_for('pred_form') }}">
+            {{ form.csrf_token }}
+
+            <fieldset class="form-field">
+                {{ form.min_exp.label }}
+                {{ form.min_exp(size=10) }}
+            </fieldset>
+
+            {{ form.submit }}
+
+        </form>
+    </div>
+
+{% endblock %}
