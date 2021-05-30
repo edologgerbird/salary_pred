@@ -12,12 +12,19 @@
 ## Codes and Resources Used
 
 **Python Version:** 3.9
+
 **Packages:** pandas, numpy, sklearn, matplotlip, seaborn, selenium, pickle, flask, wtforms
+
 **Web Framework Requirements**: ```pip install -r requirements.txt```
+
 **Inspiration:** https://github.com/PlayingNumbers/ds_salary_proj
+
 **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium
+
 **Flask WTForms:** https://hackersandslackers.com/flask-wtforms-forms/
+
 **Flask WTForms Github:** https://github.com/hackersandslackers/flask-wtform-tutorial/tree/master/flask_wtforms_tutorial
+
 
 ## Web Scraping
 
