@@ -1,6 +1,5 @@
 from flask_wtf import FlaskForm, RecaptchaField
 from wtforms import (
-    StringField,
     TextAreaField,
     SubmitField,
     IntegerField,
@@ -9,10 +8,7 @@ from wtforms import (
 from wtforms.validators import (
     DataRequired,
     NumberRange,
-    Email,
-    EqualTo,
-    Length,
-    URL
+
 )
 
 class PredForm(FlaskForm):
