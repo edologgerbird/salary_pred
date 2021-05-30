@@ -1,0 +1,25 @@
+{% extends 'layout.jinja2' %}
+
+{% block styles %}
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/success.css') }}"
+        type="text/css"
+    />
+
+{% endblock %}
+
+{% block content %}
+
+    <div class="success-wrapper">
+      <h1>SUCCESS!</h1>
+      <p>Your estimated salary is: </p>
+      <h2> S$ {{pred_salary}} </h2>
+
+      <a href="{{ url_for('pred_form') }}">
+          <button>Start over</button>
+      </a>
+    </div>
+
+{% endblock %}

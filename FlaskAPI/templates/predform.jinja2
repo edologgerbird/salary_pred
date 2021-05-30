@@ -1,0 +1,71 @@
+{% extends 'layout.jinja2' %}
+
+{% block styles %}
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/forms.css') }}"
+        type="text/css"
+    />
+
+{% endblock %}
+
+{% block content %}
+
+    <div class="form-wrapper">
+        <h2 class="title">Salary Predictor for Data-related Jobs</h2>
+
+        <form method="POST" action="{{ url_for('pred_form') }}">
+            {{ form.csrf_token }}
+
+            <fieldset class="form-field">
+                {{ form.min_exp.label }}
+                {{ form.min_exp(size=10) }}
+
+                {% if form.min_exp.errors %}
+                    <ul class="errors">
+                    {% for error in form.min_exp.errors %}
+                        <li class="error">
+                            <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.job_title.label }}
+                {{ form.job_title }}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.employment_type.label }}
+                {{ form.employment_type}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.seniority.label }}
+                {{ form.seniority}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.job_cat.label }}
+                {{ form.job_cat}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.job_desc.label }}
+                {{ form.job_desc(size=100) }}
+            </fieldset>
+
+            {{ form.submit }}
+
+        </form>
+    </div>
+
+{% endblock %}
