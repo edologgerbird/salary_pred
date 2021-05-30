@@ -18,3 +18,62 @@
 **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium
 **Flask WTForms:** https://hackersandslackers.com/flask-wtforms-forms/
 **Flask WTForms Github:** https://github.com/hackersandslackers/flask-wtform-tutorial/tree/master/flask_wtforms_tutorial
+
+## Web Scraping
+
+Scraped over 300 job postings from [MyCareersFuture](https://www.mycareersfuture.gov.sg/). We extracted the following parameters from each job posting:
+- Job Title
+- Company Name
+- Address
+- Job Title
+- Seniority
+- Minimum Years of Experience Required
+- Company Sector
+- Salary Range
+- Salary Unit
+- Job Description
+
+## Data Cleaning
+
+After scraping the data, the data needed to be cleaned for it to be usable by our models. The following changes were made to the data:
+1. Re-categorising of job titles to standardise categories
+2. Re-categorising of employment type to standardise categories
+3. Re-categorising of seniority to standardise categories
+4. Converting minimum experience into numerical data
+5. Re-categorising of company sector to their primary category
+6. Converting salary range to average salary
+7. Dropping unused columns
+
+## Data Exploration
+
+I first scanned the various job descriptions visually and identified keywords that we would like to extract as features representing the value companies place on the keywords. Following which, I created new columns for job description length and all the keywords identified. (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow). Next, I plotted pivot tables and graphs for the various categorical variables.
+
+## Model Building
+
+Firstly, I transformed the relevant categorical variables into dummy variables. Next, I split the data into train and test sets in the ratio of 8:2.
+
+I tried five different models and evaluated them using Mean Absolute Error (MAE), which is easier to intepret.
+
+The models tested were:
+1. Multiple Linear
+2. Lasso Regression
+3. Random Forest
+4. Gradient Boosting
+5. Bootstrap Aggregation
+
+The hyperparameters for the models were tuned using GridsearchCV.
+
+## Model Performance
+
+The Gradient Boosting Regression model returned the lowest MAE for the test set. We will use it for our final model.
+
+             Regression Model          MAE
+0  Multiple linear regression  1450.715424
+1            Lasso Regression  1395.916264
+2               Random Forest  1424.412900
+3           Gradiant Boosting  1345.158719
+4          Boostrap Aggregate  1391.509327
+
+## Productionisation
+
+With our model built, I moved forward to develop a client-facing UI that accepts the parameters and outputs the predicted salary. I used WTForms under the Flask API to create a form for users to key in the respective parameters. 
