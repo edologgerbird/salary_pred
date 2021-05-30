@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, url_for
+from flask import Flask, render_template, request, url_for, session
 import pickle
 from werkzeug.utils import redirect
 from form import PredForm
@@ -23,7 +23,9 @@ app.config['SECRET_KEY'] = SECRET_KEY
 def pred_form():
     form = PredForm()
     if form.validate_on_submit():
-         return redirect(url_for("success"))
+        session['min_exp'] = form.min_exp.data
+        session['job_title'] = form.job_title.data
+        return redirect(url_for("success"))
     return render_template(
         "predform.jinja2",
         form=form,
@@ -35,8 +37,32 @@ def success():
     """Generic success page upon form submission."""
     return render_template(
         "success.jinja2",
-        template="success-template"
+        template="success-template",
+        min_exp=session['min_exp'],
+        job_title=session['job_title']
     )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @app.route('/', methods=['GET', 'POST'])
 def hello_world():

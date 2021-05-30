@@ -23,6 +23,35 @@
                 {{ form.min_exp(size=10) }}
             </fieldset>
 
+            <fieldset class="form-field">
+                {{ form.job_title.label }}
+                {{ form.job_title }}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.employment_type.label }}
+                {{ form.employment_type}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.seniority.label }}
+                {{ form.seniority}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.job_cat.label }}
+                {{ form.job_cat}}
+                <i class="fas fa-caret-down"></i>
+            </fieldset>
+
+            <fieldset class="form-field">
+                {{ form.job_desc.label }}
+                {{ form.job_desc(size=100) }}
+            </fieldset>
+
             {{ form.submit }}
 
         </form>
