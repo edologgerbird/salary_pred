@@ -74,12 +74,15 @@ The hyperparameters for the models were tuned using GridsearchCV.
 
 The Gradient Boosting Regression model returned the lowest MAE for the test set. We will use it for our final model.
 
-             Regression Model          MAE
-0  Multiple linear regression  1450.715424
-1            Lasso Regression  1395.916264
-2               Random Forest  1424.412900
-3           Gradiant Boosting  1345.158719
-4          Boostrap Aggregate  1391.509327
+  Multiple linear regression  1450.715424
+  
+            Lasso Regression  1395.916264
+            
+               Random Forest  1424.412900
+               
+           Gradiant Boosting  1345.158719
+           
+          Boostrap Aggregate  1391.509327
 
 ## Productionisation
 
