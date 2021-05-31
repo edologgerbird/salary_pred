@@ -55,8 +55,8 @@ After scraping the data, the data needed to be cleaned for it to be usable by ou
 
 I first scanned the various job descriptions visually and identified keywords that we would like to extract as features representing the value companies place on the keywords. Following which, I created new columns for job description length and all the keywords identified. (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow). Next, I plotted pivot tables and graphs for the various categorical variables.
 
-
 ![Pivot Table](https://github.com/edologgerbird/salary_pred/blob/main/assets/table1.png "Pivot Table")
+![Pivot Table](https://github.com/edologgerbird/salary_pred/blob/main/assets/table2.png "Pivot Table")
 
 ## Model Building
 
