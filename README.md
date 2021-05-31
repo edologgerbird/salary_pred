@@ -89,6 +89,9 @@ The Gradient Boosting Regression model returned the lowest MAE for the test set.
 
 With our model built, I moved forward to develop a client-facing UI that accepts the parameters and outputs the predicted salary. I used WTForms under the Flask API to create a form for users to key in the respective parameters. 
 
+![Predictor Interface](https://github.com/edologgerbird/salary_pred/blob/main/assets/demo0.png "Predictor Interface")
+
+
 ![Predictor Interface](https://github.com/edologgerbird/salary_pred/blob/main/assets/demo1.png "Predictor Interface")
 
 
