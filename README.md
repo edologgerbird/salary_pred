@@ -28,7 +28,7 @@
 
 ## Web Scraping
 
-Scraped over 300 job postings from [MyCareersFuture](https://www.mycareersfuture.gov.sg/). We extracted the following parameters from each job posting:
+Scraped over 300 job postings from [MyCareersFuture](https://www.mycareersfuture.gov.sg/). I extracted the following parameters from each job posting:
 - Job Title
 - Company Name
 - Address
@@ -53,7 +53,7 @@ After scraping the data, the data needed to be cleaned for it to be usable by ou
 
 ## Data Exploration
 
-I first scanned the various job descriptions visually and identified keywords that we would like to extract as features representing the value companies place on the keywords. Following which, I created new columns for job description length and all the keywords identified. (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow). Next, I plotted pivot tables and graphs for the various categorical variables.
+I first scanned the various job descriptions visually and identified keywords that I would like to extract as features representing the value companies place on the keywords. Following which, I created new columns for job description length and all the keywords identified. (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow). Next, I plotted pivot tables and graphs for the various categorical variables.
 
 ![Pivot Table](https://github.com/edologgerbird/salary_pred/blob/main/assets/table2.png "Pivot Table")
 ![Pivot Table](https://github.com/edologgerbird/salary_pred/blob/main/assets/table1.png "Pivot Table")
@@ -75,7 +75,7 @@ The hyperparameters for the models were tuned using GridsearchCV.
 
 ## Model Performance
 
-The Gradient Boosting Regression model returned the lowest MAE for the test set. We will use it for our final model.
+The Gradient Boosting Regression model returned the lowest MAE for the test set. I will use it for the final model.
 
 
     Multiple linear regression  1450.715424
