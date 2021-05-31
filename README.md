@@ -62,11 +62,11 @@ Firstly, I transformed the relevant categorical variables into dummy variables. 
 I tried five different models and evaluated them using Mean Absolute Error (MAE), which is easier to intepret.
 
 The models tested were:
-1. Multiple Linear
-2. Lasso Regression
-3. Random Forest
-4. Gradient Boosting
-5. Bootstrap Aggregation
+1. Multiple Linear (Baseline)
+2. Lasso Regression (Reduces overfitting and increases interpretability)
+3. Random Forest (Useful for high number of dimensions)
+4. Gradient Boosting (Gives higher weitage to higher accuracy samples)
+5. Bootstrap Aggregation (Useful to account for high variance)
 
 The hyperparameters for the models were tuned using GridsearchCV.
 
