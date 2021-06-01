@@ -68,7 +68,7 @@ The models tested were:
 1. Multiple Linear (Baseline)
 2. Lasso Regression (Reduces overfitting and increases interpretability)
 3. Random Forest (Useful for high number of dimensions)
-4. Gradient Boosting (Gives higher weitage to higher accuracy samples)
+4. Gradient Boosting (Gives higher weightage to high accuracy samples)
 5. Bootstrap Aggregation (Useful to account for high variance)
 
 The hyperparameters for the models were tuned using GridsearchCV.
