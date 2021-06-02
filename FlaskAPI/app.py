@@ -4,7 +4,7 @@ from form import PredForm
 import predictor
 import os 
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates') 
 
 SECRET_KEY = os.urandom(32)
 app.config['SECRET_KEY'] = SECRET_KEY
