@@ -10,7 +10,7 @@ def load_models():
     return model
 
 def format_input(min_exp, job_title, employment_type, seniority, job_cat, job_desc):
-    row = pd.read_csv('../sample_row.csv')
+    row = pd.read_csv('sample_row.csv')
     # print(row)
     row['min_exp'] = min_exp
     row[job_title] = 1
