@@ -58,5 +58,4 @@ urllib3==1.26.5
 wcwidth==0.2.5
 webdriver-manager==3.4.2
 Werkzeug==2.0.1
-wordcloud @ file:///C:/Users/edmun/Dropbox/ds_projects/salary_pred/salary_pred/wordcloud-1.8.1-cp39-cp39-win_amd64.whl
 WTForms==2.3.3
