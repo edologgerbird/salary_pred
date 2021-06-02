@@ -7,7 +7,7 @@
  - Scraped about 300 job descriptions from MyCareersFuture using Python and Selenium
  - Created features from the open-text job descriptions to quantify the value companies put on relevant technologies related to data science (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow).
  - Created models using common job parameters and the features from the job description using 5 regression models (Multiple Linear, Lasso, Random Forest, Gradient Boosting and Bootstrap Aggregation) tuned with GridsearchCV.
- - Built a client facing UI using Flask API, WTForms and Jinja2. 
+ - Built a client facing UI using Flask API, WTForms and Jinja2. Deployed to Heroku. Visit the Heroku app [here](https://ds-salary-predictor.herokuapp.com/).
 
 ## Codes and Resources Used
 
@@ -90,7 +90,7 @@ The Gradient Boosting Regression model returned the lowest MAE for the test set.
 
 ## Productionisation
 
-With our model built, I moved forward to develop a client-facing UI that accepts the parameters and outputs the predicted salary. I used WTForms under the Flask API to create a form for users to key in the respective parameters. 
+With our model built, I moved forward to develop a client-facing UI that accepts the parameters and outputs the predicted salary. I used WTForms under the Flask API to create a form for users to key in the respective parameters. Deployed to Heroku. Visit the Heroku app [here](https://ds-salary-predictor.herokuapp.com/).
 
 ![Predictor Interface](https://github.com/edologgerbird/salary_pred/blob/main/assets/demo0.png "Predictor Interface")
 
